@@ -1,5 +1,5 @@
 schema: skill-manifest/v1
-id: sgc-obsidian-reset-cache
+id: lov-obsidian-reset-cache
 version: 1.0.2
 runtime: skill-runtime/v1
 context:
