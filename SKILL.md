@@ -12,11 +12,11 @@ compatibility: >
   macOS only. Obsidian stores cache in ~/Library/Application Support/obsidian/.
 metadata:
   author: contributors
-  version: "1.1.0"
+  version: "1.1.1"
   tags: obsidian, cache, troubleshooting
 ---
 
-# obsidian-reset-cache — 重置 Obsidian 缓存
+# Obsidian 缓存清理 · Obsidian Cache Reset
 
 解决 Obsidian 卡在 "Loading cache..." 无法启动的问题。
 
